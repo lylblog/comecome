@@ -1,1 +1,1539 @@
-{"data":[{"id":1682952453886,"name":"日常","groupList":[{"id":1691511355817,"name":"社交","siteList":[{"id":1691511367428,"name":"微博","url":"https://weibo.com/","favicon":""},{"id":1691511378165,"name":"知乎","url":"https://www.zhihu.com/","favicon":""},{"id":1691511387328,"name":"贴吧","url":"https://tieba.baidu.com/","favicon":""},{"id":1691511404536,"name":"豆瓣","url":"https://www.douban.com/","favicon":""},{"id":1691511425429,"name":"简书","url":"https://www.jianshu.com/","favicon":""},{"id":1691511442949,"name":"虎扑","url":"https://bbs.hupu.com/","favicon":""}]},{"id":1683444576461,"name":"资讯","siteList":[{"id":1683444716130,"name":"腾讯网","url":"https://www.qq.com/","favicon":""},{"id":1683444736801,"name":"新浪网","url":"https://www.sina.com.cn/","favicon":""},{"id":1683444595590,"name":"今日头条","url":"https://www.toutiao.com/","favicon":""},{"id":1683444617455,"name":"环球网","url":"https://www.huanqiu.com/","favicon":""},{"id":1683444693580,"name":"搜狐网","url":"https://www.sohu.com/","favicon":""},{"id":1683444632615,"name":"虎嗅网","url":"https://www.huxiu.com/","favicon":""}]},{"id":1683444783560,"name":"购物","siteList":[{"id":1683444814662,"name":"京东","url":"https://jd.com/","favicon":""},{"id":1683444838999,"name":"淘宝","url":"https://www.taobao.com/","favicon":""},{"id":1683445009276,"name":"苏宁易购","url":"https://www.suning.com/","favicon":""},{"id":1683445081186,"name":"拼多多","url":"https://www.pinduoduo.com/","favicon":""},{"id":1683445175259,"name":"网易严选","url":"https://you.163.com/","favicon":""},{"id":1683445251969,"name":"Amazon","url":"https://www.amazon.com/","favicon":""}]},{"id":1683445511073,"name":"影视","siteList":[{"id":1683445552281,"name":"腾讯视频","url":"https://v.qq.com/","favicon":""},{"id":1683445577747,"name":"优酷","url":"https://www.youku.com/","favicon":""},{"id":1683445625624,"name":"芒果TV","url":"https://www.mgtv.com/","favicon":""},{"id":1683445638708,"name":"爱奇艺","url":"https://www.iqiyi.com/","favicon":""},{"id":1683445666116,"name":"乐视","url":"https://www.le.com/","favicon":""},{"id":1683445731544,"name":"西瓜视频","url":"https://www.ixigua.com/","favicon":""}]},{"id":1683445778020,"name":"招聘","siteList":[{"id":1683445789571,"name":"BOSS直聘","url":"https://www.zhipin.com/","favicon":""},{"id":1683445808052,"name":"猪八戒","url":"https://chaoyang.zbj.com/","favicon":""},{"id":1683445828852,"name":"智联招聘","url":"https://landing.zhaopin.com/","favicon":""},{"id":1683445842722,"name":"前程无忧","url":"https://www.51job.com/","favicon":""},{"id":1683445859621,"name":"人才热线","url":"https://www.cjol.com/","favicon":""},{"id":1683445911490,"name":"拉勾网","url":"https://www.lagou.com/","favicon":""}]}]},{"id":1683446922689,"name":"开发","groupList":[{"id":1683458769247,"name":"文档","siteList":[{"id":1683458778330,"name":"MDN","url":"https://developer.mozilla.org/","favicon":""},{"id":1683458919011,"name":"TypeScript","url":"https://www.tslang.cn/","favicon":""},{"id":1683458867009,"name":"React","url":"https://react.docschina.org/","favicon":""},{"id":1683458900897,"name":"Uni-app","url":"https://uniapp.dcloud.net.cn/","favicon":""},{"id":1683458835188,"name":"Spring","url":"https://spring.io/","favicon":""},{"id":1683458953528,"name":"MybatisPlus","url":"https://baomidou.com/pages/24112f/","favicon":""}]},{"id":1683447020506,"name":"社区","siteList":[{"id":1683447052727,"name":"稀土掘金","url":"https://juejin.cn/","favicon":""},{"id":1683447097619,"name":"腾讯云社区","url":"https://cloud.tencent.com/developer","favicon":""},{"id":1683447117570,"name":"阿里云社区","url":"https://developer.aliyun.com/","favicon":""},{"id":1683447166449,"name":"Stackoverflow","url":"https://stackoverflow.com/","favicon":""},{"id":1683447183594,"name":"Segmentfault","url":"https://segmentfault.com/","favicon":""},{"id":1683447199465,"name":"V2ex","url":"https://www.v2ex.com/","favicon":""}]},{"id":1683447260831,"name":"平台","siteList":[{"id":1683447074735,"name":"Github","url":"https://github.com/","favicon":""},{"id":1683447286636,"name":"Gitee","url":"https://gitee.com/","favicon":""},{"id":1683447295377,"name":"Gitlab","url":"https://gitlab.com/","favicon":""},{"id":1683447303410,"name":"Coding","url":"https://coding.net/","favicon":""},{"id":1683447311382,"name":"Codepen","url":"https://codepen.io/","favicon":""},{"id":1683447319359,"name":"Notion","url":"https://www.notion.so/","favicon":""}]},{"id":1683458693922,"name":"云服务","siteList":[{"id":1683458701435,"name":"阿里云","url":"https://aliyun.com/","favicon":""},{"id":1683458709123,"name":"腾讯云","url":"https://cloud.tencent.com/","favicon":""},{"id":1683458716567,"name":"AWS","url":"https://aws.amazon.com/","favicon":""},{"id":1683458727144,"name":"GoogleCloud","url":"https://cloud.google.com/","favicon":""},{"id":1683458738963,"name":"Azure","url":"https://azure.microsoft.com/","favicon":""},{"id":1683458750804,"name":"Cloudflare","url":"https://www.cloudflare.com/","favicon":""}]},{"id":1691511821007,"name":"工具","siteList":[{"id":1691511839205,"name":"CloudCanal","url":"https://www.clougence.com","favicon":""},{"id":1691511866538,"name":"NameBeta","url":"https://namebeta.com/","favicon":""},{"id":1691511881294,"name":"VirusTotal","url":"https://www.virustotal.com/","favicon":""},{"id":1691511961351,"name":"RegExr","url":"https://regexr.com/","favicon":""},{"id":1691511914671,"name":"Processon","url":"https://processon.com/","favicon":""},{"id":1691511939871,"name":"Can I Use","url":"https://caniuse.com/","favicon":""}]}]},{"id":285,"name":"设计","groupList":[{"id":286,"name":"灵感","siteList":[{"id":287,"name":"Dribbble","url":"https://dribbble.com/","favicon":""},{"id":288,"name":"Behance","url":"https://www.behance.net/","favicon":""},{"id":289,"name":"Panda","url":"https://app.usepanda.com/","favicon":""},{"id":290,"name":"abdz.do","url":"https://abduzeedo.com/","favicon":""},{"id":291,"name":"Land-book","url":"https://land-book.com/","favicon":""},{"id":292,"name":"Muzli","url":"https://muz.li/","favicon":""}]},{"id":293,"name":"图库","siteList":[{"id":294,"name":"Unsplash","url":"https://unsplash.com/","favicon":""},{"id":295,"name":"Pinterest","url":"https://www.pinterest.com/","favicon":""},{"id":296,"name":"Pixabay","url":"https://pixabay.com/","favicon":""},{"id":297,"name":"花瓣","url":"https://huaban.com/","favicon":""},{"id":298,"name":"500px","url":"https://500px.com/","favicon":""},{"id":299,"name":"SplitShire","url":"https://www.splitshire.com/","favicon":""}]},{"id":300,"name":"素材","siteList":[{"id":301,"name":"Freepik","url":"https://www.freepik.com/","favicon":""},{"id":302,"name":"Firmbee","url":"https://firmbee.com/","favicon":""},{"id":303,"name":"Pixeden","url":"https://www.pixeden.com/","favicon":""},{"id":304,"name":"Pexels","url":"https://www.pexels.com/","favicon":""},{"id":305,"name":"Shutterstock","url":"https://www.shutterstock.com/","favicon":""},{"id":306,"name":"Themeforest","url":"https://themeforest.net/","favicon":""}]},{"id":307,"name":"图标","siteList":[{"id":308,"name":"Flaticon","url":"https://www.flaticon.com/","favicon":""},{"id":309,"name":"iconfont","url":"https://www.iconfont.cn/","favicon":""},{"id":310,"name":"Iconfinder","url":"https://www.iconfinder.com/","favicon":""},{"id":311,"name":"NounProject","url":"https://thenounproject.com/","favicon":""},{"id":312,"name":"Icons8","url":"https://icons8.com/","favicon":""},{"id":313,"name":"CSS Icons","url":"https://css.gg/","favicon":""}]},{"id":314,"name":"颜色","siteList":[{"id":315,"name":"Adobe Color","url":"https://color.adobe.com/","favicon":""},{"id":316,"name":"ColorHunt","url":"https://colorhunt.co/","favicon":""},{"id":317,"name":"Coolors","url":"https://coolors.co/","favicon":""},{"id":318,"name":"WebGradients","url":"https://webgradients.com/","favicon":""},{"id":319,"name":"Colllor","url":"http://colllor.com/","favicon":""},{"id":320,"name":"ColourCode","url":"https://www.toptal.com/designers/colourcode","favicon":""}]}]}],"settings":{"theme":"MoonWhite","search":"Bing","iconStyle":"Plain","siteStyle":"auto"}}
+{
+  "data": [
+    {
+      "id": 1733304296064,
+      "name": "工作",
+      "groupList": [
+        {
+          "id": "7",
+          "name": "公司内部",
+          "siteList": [
+            {
+              "id": "0",
+              "name": "U-Mail公司邮箱",
+              "url": "http://www.zhuofansoft.com:9966/#/login?module=view&action=login",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "高效源于协同OA",
+              "url": "http://www.zhuofansoft.com:10060/wui/index.html#/main/attendance/checking?menuIds=100020,100021&menuPathIds=100020,100021&_key=dozsni",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "2",
+              "name": "用户登录 - 禅道",
+              "url": "http://www.zhuofansoft.com:9191/zentao/user-login-L3plbnRhby8=.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "3",
+              "name": "微博",
+              "url": "http://www.zhuofansoft.com:10060/wui/index.html#/main/blog/myBlog?menuIds=392,393&menuPathIds=392,393&_key=g0clkq",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "4",
+              "name": "注册授权管理平台",
+              "url": "http://101.230.251.254:8288/Authorization/index.do",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "5",
+              "name": "智能终端监控平台",
+              "url": "http://hf.zhuofansoft.com:13136/manager/index.do",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "name": "兴安盟政务",
+          "children": [
+            {
+              "id": "5",
+              "name": "巡检",
+              "siteList": [
+                {
+                  "id": "0",
+                  "name": "蒙速办-服务-便民服务巡检-周五下午4点前 腾讯文档",
+                  "url": "https://docs.qq.com/sheet/DZEZpbHhBWnFmZHVx?u=50fd070b6b4e40e2b2453600fb8bf97e&scene=13c9fe12eb2f7bf49d80e512NBrRo1&_t=1663659585310&tab=BB08J2",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "1",
+                  "name": "每周工作统计表",
+                  "url": "https://www.kdocs.cn/l/ce4CcRwjw18P",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "name": "盟速办",
+              "siteList": [
+                {
+                  "id": "0",
+                  "name": "政务融合平台",
+                  "url": "http://117.161.199.28:9013/simple/console/",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "1",
+                  "name": "蒙速办·开放平台",
+                  "url": "http://59.196.23.175:8088/op-front/#/login",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "2",
+                  "name": "蒙速办应用等保测评统计表格-20220927",
+                  "url": "https://www.kdocs.cn/l/cvktVxgBOf0y",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "3",
+                  "name": "蒙速办数据展示平台",
+                  "url": "http://10.12.23.238/data-display-new/index.html",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "4",
+                  "name": "蒙速办app访问量",
+                  "url": "http://10.12.23.238/mengsuban_search/search/cityAccessRank/152200",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "5",
+                  "name": "蒙速办注册量",
+                  "url": "http://10.12.23.238/mengsuban_search/search/cityRegister/152200",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "6",
+                  "name": "蒙速办数据展示平台",
+                  "url": "http://10.12.23.238/icity/apps/areas/neimenggu/data-display-new-test/index.html",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "7",
+                  "name": "蒙速办注册量",
+                  "url": "http://10.12.23.238/mengsuban_search/search/cityRegister/150000",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                },
+                {
+                  "id": "8",
+                  "name": "蒙速办数据展示平台",
+                  "url": "http://10.12.23.238/data-display/index.html",
+                  "favicon": "",
+                  "bgColor": "#163f3b"
+                }
+              ]
+            }
+          ],
+          "siteList": [
+            {
+              "id": "0",
+              "name": "内蒙古政务服务管理平台",
+              "url": "http://59.196.23.140/index",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "内蒙古政务服务网",
+              "url": "http://zwfw.nmg.gov.cn/?record=istrue",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "2",
+              "name": "兴安盟行政审批服务局综合电子监察平台",
+              "url": "http://10.223.70.133:8002/dzjc/defaultSignIn.do",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "3",
+              "name": "智慧政务云平台",
+              "url": "http://10.223.70.133:8000/ypt/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "4",
+              "name": "事项同步接口",
+              "url": "http://10.223.70.133:8888/dd/sx/repair?implementCode=",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "7",
+              "name": "兴安盟大数据-共享平台数据资源管理系统",
+              "url": "http://gx.xam.gov.cn:8084/main/homepage",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "8",
+              "name": "政务局-DSS",
+              "url": "https://10.26.89.164/admin/login_login.action",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "9",
+              "name": "内蒙古自治区政务服务网错别字监测数据全部数据",
+              "url": "https://www.kdocs.cn/l/crFwZAW4PiRP",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "10",
+              "name": "兴安盟综窗人员更新和删除统计表",
+              "url": "https://www.kdocs.cn/l/caq8gNeIbqsN",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "11",
+              "name": "通用基础研发平台-一体机",
+              "url": "http://117.161.31.234:8052/manager/login.do",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "12",
+              "name": "兴安盟政务服务网",
+              "url": "https://zwfw.nmg.gov.cn/city_index?regionCode=152200000000&record=istrue",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "13",
+              "name": "内蒙古自治区统一电子印章系统",
+              "url": "http://10.8.3.4:6888/escloud/frame/frame",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "14",
+              "name": "事项平台——事项清单分析比率统计列表",
+              "url": "http://59.196.23.240:8086/sxgl/statistics/CaseOnLineCount/listSxServiceRatioAnalysis.do?districtName=&districtOid=&serviceTypeOid=1&districtScope=0",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "15",
+              "name": "事项平台——业务项拆分情况统计列表",
+              "url": "http://59.196.23.240:8086/sxgl/statistics/splitItem/listSxServiceSplitItemAnalysis.do?districtName=&districtOid=&serviceTypeOid=1&districtScope=0",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "0",
+              "name": "xam_zabbix",
+              "url": "http://10.223.70.241:8001/zabbix.php?action=dashboard.view",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": 1733305766439,
+          "name": "蒙速办",
+          "siteList": []
+        },
+        {
+          "id": "6",
+          "name": "各类免费资源-挪车码",
+          "siteList": [
+            {
+              "id": "2",
+              "name": "V2free",
+              "url": "https://w1.v2free.cc/user",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "57",
+              "name": "免费在线图片/视频压缩工具 | 图片压缩 | 免费 JPG PNG GIF 图像压缩",
+              "url": "http://www.yalijuda.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "22",
+              "name": "V2free",
+              "url": "https://w1.v2free.cc/user/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "0",
+              "name": "免服务器部署「挪车二维码」，可微信通知、拨打电话",
+              "url": "https://mp.weixin.qq.com/s/Z7dM6DcInN3ysuY8-n_8LA",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "用Workers免服务器部署挪车二维码，可微信通知、拨打电话-缙哥哥",
+              "url": "https://www.dujin.org/23105.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "0",
+              "name": "免费Redis Cloud 控制台",
+              "url": "https://cloud.redis.io/#/databases",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "db4free.net - 免费的 MySQL 数据库",
+              "url": "https://www.db4free.net/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "0",
+              "name": "CloudFlare workers.dev域名DNS污染 国内无法访问解决办法-腾讯云开发者社区-腾讯云",
+              "url": "https://cloud.tencent.com/developer/article/2133923",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "免费域名——DigitalPlat Domain Registry and Management Authority",
+              "url": "https://register.us.kg/auth/login?next=%2Fpanel%2Fmain",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "2",
+              "name": "Cloudflare | Web Performance & Security",
+              "url": "https://dash.cloudflare.com/28bf69fea0512ead16671174d74ee3d9/developer-platform/pick",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "3",
+              "name": "WxPusher微信消息推送服务",
+              "url": "https://wxpusher.zjiecode.com/admin/main/wxuser/list",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "4",
+              "name": "Bookmarks clean up - Chrome 应用商店",
+              "url": "https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?utm_source=ext_app_menu",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "58",
+              "name": "程序员备忘清单 & Quick Reference ",
+              "url": "https://quickref.cn/index.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "50",
+              "name": "Render Dashboard",
+              "url": "https://dashboard.render.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "10",
+              "name": "Railway-免费托管网站",
+              "url": "https://railway.app/dashboard",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": 1733305166863,
+          "name": "工具软件",
+          "siteList": [
+            {
+              "id": "26",
+              "name": "小皮面板(phpstudy) - 让天下没有难配的服务器环境！",
+              "url": "https://www.xp.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "15",
+              "name": "navicat premium 16/17无限试用脚本_navicat 17 无限试用-CSDN博客",
+              "url": "https://blog.csdn.net/m0_73464010/article/details/139723570",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "48",
+              "name": "实用导航",
+              "url": "https://lylblog.github.io/nav/#/side?page=20&id=0",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "54",
+              "name": "图标库 - Axmax - 开箱即用的产品设计资源库与Axure增强服务",
+              "url": "https://axmax.cn/icon",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "9",
+              "name": "万花筒-导航网站",
+              "url": "https://0x3.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "49",
+              "name": "SQL之母 - SQL自学网站",
+              "url": "http://sqlmother.yupi.icu/#/levels",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "55",
+              "name": "frp",
+              "url": "https://gofrp.org/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "44",
+              "name": "秘塔写作猫",
+              "url": "https://xiezuocat.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "40",
+              "name": "蒲公英-免费且不限次数的App内测托管平台|iOS|Android安卓|内测托管|内测分发|应用内测",
+              "url": "https://www.pgyer.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "33",
+              "name": "MSDN原版系统,纯净镜像,MSDN ISO下载 - 我的MSDN",
+              "url": "https://www.imsdn.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "39",
+              "name": "MSDN - 原版之家",
+              "url": "https://msdn.pe8.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "18",
+              "name": "帮小忙，腾讯QQ浏览器在线工具箱平台",
+              "url": "https://tool.browser.qq.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "21",
+              "name": "SpiderAPI - 虫术 - 爬虫逆向常用 API",
+              "url": "https://www.spiderapi.cn/captcha/turnstile-managed/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "52",
+              "name": "Chrome for Testing availability",
+              "url": "https://googlechromelabs.github.io/chrome-for-testing/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": 1733304916769,
+          "name": "linux",
+          "siteList": [
+            {
+              "id": "23",
+              "name": "Linux各种包及镜像",
+              "url": "http://mirrors.ustc.edu.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "31",
+              "name": "centos8使用Docker部署Django项目的详细教程 - H5W3",
+              "url": "https://www.h5w3.com/227308.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "考试",
+          "siteList": [
+            {
+              "id": "0",
+              "name": "中公教育学习中心网课",
+              "url": "https://xue.eoffcn.com/web/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "兴安盟人事考试网",
+              "url": "http://www.xamks.com/html/default.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "2",
+              "name": "NTCE - 中国教育考试网",
+              "url": "https://ntce.neea.edu.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "3",
+              "name": "2022年秋季国考教资网络直播课——中学学段-新途径在线-公职类考试一站式学习平台",
+              "url": "https://player.xtjzx.cn/#/play/3708",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "4",
+              "name": "内蒙古人事考试网",
+              "url": "http://www.impta.com.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": 1733305311455,
+          "name": "物联网",
+          "siteList": [
+            {
+              "id": "51",
+              "name": "腾讯轻联",
+              "url": "https://ipaas.cloud.tencent.com/integration",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": 1733304785305,
+          "name": "python",
+          "siteList": [
+            {
+              "id": "7",
+              "name": "VUE+FastAPI结合高德地图API做一个旅游推荐系统",
+              "url": "https://github.com/Weltra",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "24",
+              "name": "python安装包",
+              "url": "https://www.python.org/ftp/python/3.10.2/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "3",
+              "name": "第一步 - FastAPI",
+              "url": "https://fastapi.tiangolo.com/zh/tutorial/first-steps/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "35",
+              "name": "pycharm部署django项目到云服务器的详细流程_python_脚本之家",
+              "url": "https://www.jb51.net/article/216239.htm#_label8",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "29",
+              "name": "Python的License授权机制 - Cool· - 博客园",
+              "url": "https://www.cnblogs.com/liuwei0824/p/16163943.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "37",
+              "name": "【python】django开发API接口_janlyn06的博客-CSDN博客_django api",
+              "url": "https://blog.csdn.net/weixin_43420032/article/details/94631231",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "36",
+              "name": "PyCharm 2022.1 激活破解码_安装教程 (2022年7月25日更新~)",
+              "url": "http://www.itmind.net/107578.html",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "20",
+              "name": "【Drissionpage】ChromiumPage实用介绍-CSDN博客",
+              "url": "https://blog.csdn.net/legend818/article/details/136251551",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "38",
+              "name": "DjangoRestFramework框架简介及基本使用 - 简书",
+              "url": "https://www.jianshu.com/p/de30adb8245e",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "25",
+              "name": "django开发个人博客系统_Ericam_的博客-CSDN博客_django个人博客",
+              "url": "https://blog.csdn.net/xjm850552586/article/details/82845285?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-82845285-blog-106736753.pc_relevant_antiscanv3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-82845285-blog-106736753.pc_relevant_antiscanv3&utm_relevant_index=1",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "27",
+              "name": " 基于django的微信小程序搭建_张筱笛的博客-CSDN博客_django开发微信小程序",
+              "url": "https://blog.csdn.net/m0_45225362/article/details/123349339",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "19",
+              "name": "使用DrissionPage实现系统自动截图每日巡检自动化_drissionpage截图-CSDN博客",
+              "url": "https://blog.csdn.net/qq_34136569/article/details/134879045?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-134879045-blog-137666330.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-134879045-blog-137666330.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=10",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "name": "收藏夹栏",
+          "siteList": [
+            {
+              "id": "53",
+              "name": "微信小程序示例 - 小相册_相册小程序源码-CSDN博客",
+              "url": "https://blog.csdn.net/sinat_17775997/article/details/62042473?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-62042473-blog-107634002.235%5Ev40%5Epc_relevant_3m_sort_dl_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-62042473-blog-107634002.235%5Ev40%5Epc_relevant_3m_sort_dl_base3&utm_relevant_index=11",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "56",
+              "name": "小程序",
+              "url": "https://mp.weixin.qq.com/wxamp/thirdtools/extend?token=1350127581&lang=zh_CN",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "1",
+              "name": "Kimi.ai - 帮你看更大的世界",
+              "url": "https://kimi.moonshot.cn/chat/cpaj933d8p8kgg5ion9g?data_source=tracer&utm_campaign=TR_PbzLg2eV&utm_content=&utm_medium=%E5%BE%AE%E8%BD%AFbing&utm_source=bing&utm_term=&msclkid=87e84460543e1ebd249b223567f714ea",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "4",
+              "name": "Zeabur - Deploy Painlessly, Scale Infinitely",
+              "url": "https://zeabur.com/zh-CN",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "5",
+              "name": "Serv00.com » Home",
+              "url": "https://www.serv00.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "11",
+              "name": "Project Overview - Zeabur",
+              "url": "https://dash.zeabur.com/projects/65d7eed431d15da53cc0c2bb/services/65d7f4693e2d4b4f8d719974?envID=65d7eed4953dcc6f57ead11a",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "12",
+              "name": "视频号助手",
+              "url": "https://channels.weixin.qq.com/platform/post/list",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "14",
+              "name": "李白-9分享小窝",
+              "url": "http://sss.sapaozi.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "17",
+              "name": "一米阅读-备课资源",
+              "url": "https://canary-www.yimiyuedu.cn/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "30",
+              "name": "《典籍里的中国》 20210307_CCTV节目官网-CCTV-1_央视网(cctv.com)",
+              "url": "https://tv.cctv.com/2021/03/07/VIDEBFFytML5MYkQ2mUsKXJf210307.shtml?spm=C52056131267.PbMIeWN9OVZT.0.0",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "34",
+              "name": "达牛帮帮你",
+              "url": "https://www.dnbbn.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "41",
+              "name": "笔尖中文_书友最值得收藏的网络小说阅读网",
+              "url": "https://www.biquzw.la/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "43",
+              "name": "首页 | 终身教育平台",
+              "url": "http://le.ouchn.cn/home",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "42",
+              "name": "张震讲鬼故事文字版",
+              "url": "http://book.sbkk8.com/gushihui/zhangzhenjiangguigushiwenziban/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "45",
+              "name": "ajream / myresume_scf · GitCode",
+              "url": "https://gitcode.net/ajream/myresume_scf/-/common_pages",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "47",
+              "name": "liuyanliang 的工作台 - liuyanliang",
+              "url": "https://liuyanliang.coding.net/user",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "5",
+              "name": "文件 · master · mirrors / fuck-xuexiqiangguo / Fuck-XueXiQiangGuo · GitCode",
+              "url": "https://gitcode.net/mirrors/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/-/tree/master",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "46",
+              "name": "腾讯云 Cloud Studio - 云端开发，化繁为简",
+              "url": "https://club.cloudstudio.net/u/275462",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "16",
+              "name": "歌曲宝-找歌就用歌曲宝-MP3音乐高品质在线免费下载",
+              "url": "https://www.gequbao.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": "32",
+              "name": "aws亚马逊",
+              "url": "https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Home:",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1682952453886,
+      "name": "日常",
+      "groupList": [
+        {
+          "id": 1691511355817,
+          "name": "社交",
+          "siteList": [
+            {
+              "id": 1691511367428,
+              "name": "微博",
+              "url": "https://weibo.com/",
+              "favicon": "",
+              "bgColor": "#163f3b"
+            },
+            {
+              "id": 1691511378165,
+              "name": "知乎",
+              "url": "https://www.zhihu.com/",
+              "favicon": "",
+              "bgColor": "#1f3f07"
+            },
+            {
+              "id": 1691511387328,
+              "name": "贴吧",
+              "url": "https://tieba.baidu.com/",
+              "favicon": "",
+              "bgColor": "#2d5fb8"
+            },
+            {
+              "id": 1691511404536,
+              "name": "豆瓣",
+              "url": "https://www.douban.com/",
+              "favicon": "",
+              "bgColor": "#6a7b40"
+            },
+            {
+              "id": 1691511425429,
+              "name": "简书",
+              "url": "https://www.jianshu.com/",
+              "favicon": "",
+              "bgColor": "#182400"
+            },
+            {
+              "id": 1691511442949,
+              "name": "虎扑",
+              "url": "https://bbs.hupu.com/",
+              "favicon": "",
+              "bgColor": "#35461c"
+            }
+          ]
+        },
+        {
+          "id": 1683444576461,
+          "name": "资讯",
+          "siteList": [
+            {
+              "id": 1683444716130,
+              "name": "腾讯网",
+              "url": "https://www.qq.com/",
+              "favicon": "",
+              "bgColor": "#0b2547"
+            },
+            {
+              "id": 1683444736801,
+              "name": "新浪网",
+              "url": "https://www.sina.com.cn/",
+              "favicon": "",
+              "bgColor": "#092e58"
+            },
+            {
+              "id": 1683444595590,
+              "name": "今日头条",
+              "url": "https://www.toutiao.com/",
+              "favicon": "",
+              "bgColor": "#256e8e"
+            },
+            {
+              "id": 1683444617455,
+              "name": "环球网",
+              "url": "https://www.huanqiu.com/",
+              "favicon": "",
+              "bgColor": "#767576"
+            },
+            {
+              "id": 1683444693580,
+              "name": "搜狐网",
+              "url": "https://www.sohu.com/",
+              "favicon": "",
+              "bgColor": "#370901"
+            },
+            {
+              "id": 1683444632615,
+              "name": "虎嗅网",
+              "url": "https://www.huxiu.com/",
+              "favicon": "",
+              "bgColor": "#0abd6b"
+            }
+          ]
+        },
+        {
+          "id": 1683444783560,
+          "name": "购物",
+          "siteList": [
+            {
+              "id": 1683444814662,
+              "name": "京东",
+              "url": "https://jd.com/",
+              "favicon": ""
+            },
+            {
+              "id": 1683444838999,
+              "name": "淘宝",
+              "url": "https://www.taobao.com/",
+              "favicon": ""
+            },
+            {
+              "id": 1683445009276,
+              "name": "苏宁易购",
+              "url": "https://www.suning.com/",
+              "favicon": "",
+              "bgColor": "#55af21"
+            },
+            {
+              "id": 1683445081186,
+              "name": "拼多多",
+              "url": "https://www.pinduoduo.com/",
+              "favicon": ""
+            },
+            {
+              "id": 1683445175259,
+              "name": "网易严选",
+              "url": "https://you.163.com/",
+              "favicon": "",
+              "bgColor": "#579925"
+            },
+            {
+              "id": 1683445251969,
+              "name": "Amazon",
+              "url": "https://www.amazon.com/",
+              "favicon": "",
+              "bgColor": "#533224"
+            }
+          ]
+        },
+        {
+          "id": 1683445511073,
+          "name": "影视",
+          "siteList": [
+            {
+              "id": 1683445552281,
+              "name": "腾讯视频",
+              "url": "https://v.qq.com/",
+              "favicon": "",
+              "bgColor": "#3429bb"
+            },
+            {
+              "id": 1683445577747,
+              "name": "优酷",
+              "url": "https://www.youku.com/",
+              "favicon": "",
+              "bgColor": "#1b0629"
+            },
+            {
+              "id": 1683445625624,
+              "name": "芒果TV",
+              "url": "https://www.mgtv.com/",
+              "favicon": "",
+              "bgColor": "#125e34"
+            },
+            {
+              "id": 1683445638708,
+              "name": "爱奇艺",
+              "url": "https://www.iqiyi.com/",
+              "favicon": "",
+              "bgColor": "#016d7c"
+            },
+            {
+              "id": 1683445666116,
+              "name": "乐视",
+              "url": "https://www.le.com/",
+              "favicon": "",
+              "bgColor": "#111338"
+            },
+            {
+              "id": 1683445731544,
+              "name": "西瓜视频",
+              "url": "https://www.ixigua.com/",
+              "favicon": "",
+              "bgColor": "#12020d"
+            }
+          ]
+        },
+        {
+          "id": 1683445778020,
+          "name": "招聘",
+          "siteList": [
+            {
+              "id": 1683445789571,
+              "name": "BOSS直聘",
+              "url": "https://www.zhipin.com/",
+              "favicon": "",
+              "bgColor": "#826d04"
+            },
+            {
+              "id": 1683445808052,
+              "name": "猪八戒",
+              "url": "https://chaoyang.zbj.com/",
+              "favicon": "",
+              "bgColor": "#fe7239"
+            },
+            {
+              "id": 1683445828852,
+              "name": "智联招聘",
+              "url": "https://landing.zhaopin.com/",
+              "favicon": "",
+              "bgColor": "#712d0f"
+            },
+            {
+              "id": 1683445842722,
+              "name": "前程无忧",
+              "url": "https://www.51job.com/",
+              "favicon": "",
+              "bgColor": "#3e3f3c"
+            },
+            {
+              "id": 1683445859621,
+              "name": "人才热线",
+              "url": "https://www.cjol.com/",
+              "favicon": "",
+              "bgColor": "#c5248a"
+            },
+            {
+              "id": 1683445911490,
+              "name": "拉勾网",
+              "url": "https://www.lagou.com/",
+              "favicon": "",
+              "bgColor": "#a1200a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1683446922689,
+      "name": "开发",
+      "groupList": [
+        {
+          "id": 1683458769247,
+          "name": "文档",
+          "siteList": [
+            {
+              "id": 1683458778330,
+              "name": "MDN",
+              "url": "https://developer.mozilla.org/",
+              "favicon": "",
+              "bgColor": "#a99917"
+            },
+            {
+              "id": 1683458919011,
+              "name": "TypeScript",
+              "url": "https://www.tslang.cn/",
+              "favicon": "",
+              "bgColor": "#095f19"
+            },
+            {
+              "id": 1683458867009,
+              "name": "React",
+              "url": "https://react.docschina.org/",
+              "favicon": "",
+              "bgColor": "#10053b"
+            },
+            {
+              "id": 1683458900897,
+              "name": "Uni-app",
+              "url": "https://uniapp.dcloud.net.cn/",
+              "favicon": "",
+              "bgColor": "#103509"
+            },
+            {
+              "id": 1683458835188,
+              "name": "Spring",
+              "url": "https://spring.io/",
+              "favicon": "",
+              "bgColor": "#ea0ed6"
+            },
+            {
+              "id": 1683458953528,
+              "name": "MybatisPlus",
+              "url": "https://baomidou.com/pages/24112f/",
+              "favicon": "",
+              "bgColor": "#fa430f"
+            }
+          ]
+        },
+        {
+          "id": 1683447020506,
+          "name": "社区",
+          "siteList": [
+            {
+              "id": 1683447052727,
+              "name": "稀土掘金",
+              "url": "https://juejin.cn/",
+              "favicon": "",
+              "bgColor": "#370738"
+            },
+            {
+              "id": 1683447097619,
+              "name": "腾讯云社区",
+              "url": "https://cloud.tencent.com/developer",
+              "favicon": "",
+              "bgColor": "#155347"
+            },
+            {
+              "id": 1683447117570,
+              "name": "阿里云社区",
+              "url": "https://developer.aliyun.com/",
+              "favicon": "",
+              "bgColor": "#000173"
+            },
+            {
+              "id": 1683447166449,
+              "name": "Stackoverflow",
+              "url": "https://stackoverflow.com/",
+              "favicon": "",
+              "bgColor": "#1e4e0a"
+            },
+            {
+              "id": 1683447183594,
+              "name": "Segmentfault",
+              "url": "https://segmentfault.com/",
+              "favicon": "",
+              "bgColor": "#56344e"
+            },
+            {
+              "id": 1683447199465,
+              "name": "V2ex",
+              "url": "https://www.v2ex.com/",
+              "favicon": "",
+              "bgColor": "#372b3c"
+            }
+          ]
+        },
+        {
+          "id": 1683447260831,
+          "name": "平台",
+          "siteList": [
+            {
+              "id": 1683447074735,
+              "name": "Github",
+              "url": "https://github.com/",
+              "favicon": ""
+            },
+            {
+              "id": 1683447286636,
+              "name": "Gitee",
+              "url": "https://gitee.com/",
+              "favicon": "",
+              "bgColor": "#a31516"
+            },
+            {
+              "id": 1683447295377,
+              "name": "Gitlab",
+              "url": "https://gitlab.com/",
+              "favicon": "",
+              "bgColor": "#3f5e3c"
+            },
+            {
+              "id": 1683447303410,
+              "name": "Coding",
+              "url": "https://coding.net/",
+              "favicon": ""
+            },
+            {
+              "id": 1683447311382,
+              "name": "Codepen",
+              "url": "https://codepen.io/",
+              "favicon": "",
+              "bgColor": "#098850"
+            },
+            {
+              "id": 1683447319359,
+              "name": "Notion",
+              "url": "https://www.notion.so/",
+              "favicon": "",
+              "bgColor": "#642a6a"
+            }
+          ]
+        },
+        {
+          "id": 1683458693922,
+          "name": "云服务",
+          "siteList": [
+            {
+              "id": 1683458701435,
+              "name": "阿里云",
+              "url": "https://aliyun.com/",
+              "favicon": "",
+              "bgColor": "#3d0e64"
+            },
+            {
+              "id": 1683458709123,
+              "name": "腾讯云",
+              "url": "https://cloud.tencent.com/",
+              "favicon": "",
+              "bgColor": "#112fe8"
+            },
+            {
+              "id": 1683458716567,
+              "name": "AWS",
+              "url": "https://aws.amazon.com/",
+              "favicon": "",
+              "bgColor": "#539942"
+            },
+            {
+              "id": 1683458727144,
+              "name": "GoogleCloud",
+              "url": "https://cloud.google.com/",
+              "favicon": "",
+              "bgColor": "#250cf3"
+            },
+            {
+              "id": 1683458738963,
+              "name": "Azure",
+              "url": "https://azure.microsoft.com/",
+              "favicon": "",
+              "bgColor": "#0ab45c"
+            },
+            {
+              "id": 1683458750804,
+              "name": "Cloudflare",
+              "url": "https://www.cloudflare.com/",
+              "favicon": "",
+              "bgColor": "#5eb221"
+            }
+          ]
+        },
+        {
+          "id": 1691511821007,
+          "name": "工具",
+          "siteList": [
+            {
+              "id": 1691511839205,
+              "name": "CloudCanal",
+              "url": "https://www.clougence.com",
+              "favicon": ""
+            },
+            {
+              "id": 1691511866538,
+              "name": "NameBeta",
+              "url": "https://namebeta.com/",
+              "favicon": "",
+              "bgColor": "#190b1f"
+            },
+            {
+              "id": 1691511881294,
+              "name": "VirusTotal",
+              "url": "https://www.virustotal.com/",
+              "favicon": "",
+              "bgColor": "#1d2812"
+            },
+            {
+              "id": 1691511961351,
+              "name": "RegExr",
+              "url": "https://regexr.com/",
+              "favicon": "",
+              "bgColor": "#1539e1"
+            },
+            {
+              "id": 1691511914671,
+              "name": "Processon",
+              "url": "https://processon.com/",
+              "favicon": "",
+              "bgColor": "#66831a"
+            },
+            {
+              "id": 1691511939871,
+              "name": "Can I Use",
+              "url": "https://caniuse.com/",
+              "favicon": "",
+              "bgColor": "#338f46"
+            }
+          ]
+        },
+        {
+          "id": 1733209732758,
+          "name": "21",
+          "siteList": [
+            {
+              "id": 1733209759222,
+              "name": "备忘清单【速查表】",
+              "url": "https://wangchujiang.com/reference/index.html",
+              "favicon": "",
+              "bgColor": "#051f07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "name": "设计",
+      "groupList": [
+        {
+          "id": 286,
+          "name": "灵感",
+          "siteList": [
+            {
+              "id": 287,
+              "name": "Dribbble",
+              "url": "https://dribbble.com/",
+              "favicon": "",
+              "bgColor": "#441130"
+            },
+            {
+              "id": 288,
+              "name": "Behance",
+              "url": "https://www.behance.net/",
+              "favicon": "",
+              "bgColor": "#b8a518"
+            },
+            {
+              "id": 289,
+              "name": "Panda",
+              "url": "https://app.usepanda.com/",
+              "favicon": "",
+              "bgColor": "#a37e00"
+            },
+            {
+              "id": 290,
+              "name": "abdz.do",
+              "url": "https://abduzeedo.com/",
+              "favicon": "",
+              "bgColor": "#2d3ad3"
+            },
+            {
+              "id": 291,
+              "name": "Land-book",
+              "url": "https://land-book.com/",
+              "favicon": "",
+              "bgColor": "#3c0553"
+            },
+            {
+              "id": 292,
+              "name": "Muzli",
+              "url": "https://muz.li/",
+              "favicon": "",
+              "bgColor": "#18112a"
+            }
+          ]
+        },
+        {
+          "id": 293,
+          "name": "图库",
+          "siteList": [
+            {
+              "id": 294,
+              "name": "Unsplash",
+              "url": "https://unsplash.com/",
+              "favicon": "",
+              "bgColor": "#3d7947"
+            },
+            {
+              "id": 295,
+              "name": "Pinterest",
+              "url": "https://www.pinterest.com/",
+              "favicon": "",
+              "bgColor": "#030e23"
+            },
+            {
+              "id": 296,
+              "name": "Pixabay",
+              "url": "https://pixabay.com/",
+              "favicon": "",
+              "bgColor": "#185c78"
+            },
+            {
+              "id": 297,
+              "name": "花瓣",
+              "url": "https://huaban.com/",
+              "favicon": "",
+              "bgColor": "#25021e"
+            },
+            {
+              "id": 298,
+              "name": "500px",
+              "url": "https://500px.com/",
+              "favicon": ""
+            },
+            {
+              "id": 299,
+              "name": "SplitShire",
+              "url": "https://www.splitshire.com/",
+              "favicon": "",
+              "bgColor": "#3f2b0b"
+            }
+          ]
+        },
+        {
+          "id": 300,
+          "name": "素材",
+          "siteList": [
+            {
+              "id": 301,
+              "name": "Freepik",
+              "url": "https://www.freepik.com/",
+              "favicon": "",
+              "bgColor": "#1a2685"
+            },
+            {
+              "id": 302,
+              "name": "Firmbee",
+              "url": "https://firmbee.com/",
+              "favicon": "",
+              "bgColor": "#1159db"
+            },
+            {
+              "id": 303,
+              "name": "Pixeden",
+              "url": "https://www.pixeden.com/",
+              "favicon": "",
+              "bgColor": "#8cc331"
+            },
+            {
+              "id": 304,
+              "name": "Pexels",
+              "url": "https://www.pexels.com/",
+              "favicon": "",
+              "bgColor": "#06311d"
+            },
+            {
+              "id": 305,
+              "name": "Shutterstock",
+              "url": "https://www.shutterstock.com/",
+              "favicon": "",
+              "bgColor": "#1f373c"
+            },
+            {
+              "id": 306,
+              "name": "Themeforest",
+              "url": "https://themeforest.net/",
+              "favicon": ""
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "name": "图标",
+          "siteList": [
+            {
+              "id": 308,
+              "name": "Flaticon",
+              "url": "https://www.flaticon.com/",
+              "favicon": "",
+              "bgColor": "#606726"
+            },
+            {
+              "id": 309,
+              "name": "iconfont",
+              "url": "https://www.iconfont.cn/",
+              "favicon": "",
+              "bgColor": "#445847"
+            },
+            {
+              "id": 310,
+              "name": "Iconfinder",
+              "url": "https://www.iconfinder.com/",
+              "favicon": "",
+              "bgColor": "#6d5b2a"
+            },
+            {
+              "id": 311,
+              "name": "NounProject",
+              "url": "https://thenounproject.com/",
+              "favicon": "",
+              "bgColor": "#f92297"
+            },
+            {
+              "id": 312,
+              "name": "Icons8",
+              "url": "https://icons8.com/",
+              "favicon": "",
+              "bgColor": "#1c1858"
+            },
+            {
+              "id": 313,
+              "name": "CSS Icons",
+              "url": "https://css.gg/",
+              "favicon": "",
+              "bgColor": "#17293b"
+            }
+          ]
+        },
+        {
+          "id": 314,
+          "name": "颜色",
+          "siteList": [
+            {
+              "id": 315,
+              "name": "Adobe Color",
+              "url": "https://color.adobe.com/",
+              "favicon": "",
+              "bgColor": "#7d8509"
+            },
+            {
+              "id": 316,
+              "name": "ColorHunt",
+              "url": "https://colorhunt.co/",
+              "favicon": "",
+              "bgColor": "#9f027e"
+            },
+            {
+              "id": 317,
+              "name": "Coolors",
+              "url": "https://coolors.co/",
+              "favicon": "",
+              "bgColor": "#64613e"
+            },
+            {
+              "id": 318,
+              "name": "WebGradients",
+              "url": "https://webgradients.com/",
+              "favicon": "",
+              "bgColor": "#16385a"
+            },
+            {
+              "id": 319,
+              "name": "Colllor",
+              "url": "http://colllor.com/",
+              "favicon": "",
+              "bgColor": "#c43c14"
+            },
+            {
+              "id": 320,
+              "name": "ColourCode",
+              "url": "https://www.toptal.com/designers/colourcode",
+              "favicon": "",
+              "bgColor": "#002d0d"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "theme": "MoonWhite",
+    "search": "Bing",
+    "iconStyle": "Gray",
+    "siteStyle": "auto"
+  }
+}
